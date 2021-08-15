@@ -1,0 +1,18 @@
+
+body {
+  background: #DDA77b;
+}
+
+/* ----------- For screens 768px and larger ----------- */
+@media (min-width: 768px) {
+	body {
+    background:#945D5e;
+  }
+}
+
+/* ----------- For screens 1200px wide and larger----------- */
+@media (min-width: 1200px) {
+  body {
+    background: #71677C;
+  }
+}
